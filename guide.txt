@@ -1,0 +1,6 @@
+Font: 
+https://fonts.google.com/specimen/Poppins
+
+Color: 
+    header heading: #999999;
+    button: #ffe8e8
